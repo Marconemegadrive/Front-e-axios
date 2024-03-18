@@ -1,0 +1,18 @@
+.containerCenter {
+    display: flex;
+}
+
+.contentCirclesvg {
+    display: block;
+    width: size;
+    height: size;
+    border-Radius: 50%;
+    background-Color: blue;
+    position: absolute;
+    top: top;
+    left: left;
+}
+
+.contentCircle {
+    stroke: none;
+}

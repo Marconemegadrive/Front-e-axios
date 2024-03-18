@@ -1,0 +1,25 @@
+.loginWrapper{
+    margin-top: 81px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.loginConteiner{
+    width: 75vw;
+    height: 42vh;
+    margin-top: 60px;
+    border-color: #972E17;
+    border-radius: 15px;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginConteiner h1{
+    font-family: "inria sans";
+    font-weight: bold;
+    font-size: 32px;
+}

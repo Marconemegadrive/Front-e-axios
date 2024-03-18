@@ -1,0 +1,11 @@
+.lembrarContainer input{
+    /* appearance: none;*/
+     width: 15px;
+     height: 15px;
+     accent-color: #5FB24E;
+     border-width: 2px;
+     border-color: #5FB24E;
+     border-style: solid;
+     border-radius: 5px;
+     margin-bottom: 14px;
+ }

@@ -1,0 +1,10 @@
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    /*margin-top: 81px;*/
+}
+.logoContainer img{
+ height: 163px;
+ width: 254px;
+}
+  

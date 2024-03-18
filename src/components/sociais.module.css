@@ -1,0 +1,24 @@
+.sociaisContainer{
+    display:flex;
+    flex-direction: column;
+    width: max-content /*checar isso*/;
+    margin: 0 auto;
+    margin-top: 65px;
+    gap:17px;
+  }
+  .sociaisInfo{
+      display:flex;
+      flex-direction:row;
+      align-items: center;
+      gap: 10px;
+      height: 26px;
+  }
+  .sociaisImg{
+      width: 26px;
+      height:26px; 
+  }
+  
+  .sociaisInfo p{
+    font-size: 13px;
+    font-family:"inria sans";
+  }

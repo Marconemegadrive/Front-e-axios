@@ -1,0 +1,16 @@
+.Bt01 {
+    padding: 0;
+    outline: none;
+    background-color: #5FB24E;
+    color: #fff;
+    border-radius: 10px;
+    border-color: #972E17;
+    border-width: 3px;
+    border-style: solid;
+    width: 200px;
+    height: 41px;
+    margin-bottom: 12px;
+    font-family: "inria sans";
+    font-size: 25px;
+    font-weight: bold;
+}
